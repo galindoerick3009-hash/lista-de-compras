@@ -12,4 +12,6 @@ Requerimientos
 -Costilla
 -Tortillas
 -Queso
--salsa
+-Salsa
+Huevo 
+Jamón
