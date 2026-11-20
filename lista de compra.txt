@@ -1,0 +1,15 @@
+Lista de compras para una carnita asada
+
+Requerimientos
+-Carne de Res
+-Longaniza
+-Chistorra
+-Barbacoa
+-Suadero
+-Chicharron
+-Carnitas
+-Maciza
+-Costilla
+-Tortillas
+-Queso
+-salsa
